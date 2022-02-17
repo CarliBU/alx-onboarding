@@ -1,0 +1,6 @@
+say n = the number 
+FOR EACH digit in the number
+	square the digits
+find the answer of squared digits 
+add the answers together 
+get the answer of  sum of squares
